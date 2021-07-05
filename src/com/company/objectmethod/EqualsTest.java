@@ -65,7 +65,6 @@ public class EqualsTest {
         System.out.println("stringA.hashCode() = " + stringA.hashCode());
         String a = "AB";
         System.out.println("a.hashCode() = " + a.hashCode());
-        personA.
     }
 
 }
